@@ -1,0 +1,3 @@
+[submodule "WatchFaceTestModule"]
+	path = WatchFaceTestModule
+	url = https://github.com/omerpektas/WatchFaceTestModule
